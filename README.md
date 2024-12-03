@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do projeto **Aqui Não Pode**, uma plataforma interativa de educação sexual infantil que utiliza Realidade Aumentada (RA) para abordar temas como consentimento, autoconhecimento e prevenção de abusos. Nosso objetivo é criar um ambiente seguro, lúdico e educativo para crianças e adolescentes.
 
-Este projeto está sendo desenvolvido como parte da disciplina **Introdução a Sistemas Virtuais e Aumentados**, lecionada pelo **Professor Doutor Lázaro Vinícius de Oliveira Lima**.
+Este projeto está sendo desenvolvido como parte da disciplina **Introdução a Sistemas Virtuais e Aumentados**, do curso de **Tecnologia em Sistemas para Internet**, ofertado pelo **Instituto Federal de Brasília - Campus Brasília**, sob orientação do **Professor Doutor Lázaro Vinícius de Oliveira Lima**.
 
 ## 📚 Sobre o Projeto
 
